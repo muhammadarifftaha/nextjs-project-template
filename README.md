@@ -23,7 +23,7 @@ This template includes preconfigured packages and is a skeleton for further deve
 
 ## How to use
 
-Execute `create-next-app` with npm or Yarn to use the template
+Execute `create-next-app` with npm or Yarn to use the template replacing `<directory>` with the project root directory name
 
 ```bash
 npx create-next-app <directory> -e https://github.com/muhammadarifftaha/nextjs-project-template.git --ts --eslint
